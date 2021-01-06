@@ -54,8 +54,7 @@ section{
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-
-}
-#text{
-    align-items: center;
+    text-align: center;
+    color: white;
+    float: right;
 }
